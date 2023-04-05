@@ -1,2 +1,2 @@
 # pc_securator
-This repository contains  code for compromising security of an operating system
+This repository contains  code recipes for understanding the security of an operating system.
